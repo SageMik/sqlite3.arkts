@@ -1,0 +1,5 @@
+{
+  "libsqlite3_native_example.so": {
+    "source": "src/mock/Libsqlite3_native_example.mock.ets"
+  }
+}

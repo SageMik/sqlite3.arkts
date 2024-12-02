@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "Sqlite3NativeExampleAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "Sqlite3NativeExampleAbility_label",
+      "value": "label"
+    }
+  ]
+}

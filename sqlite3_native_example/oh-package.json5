@@ -1,0 +1,13 @@
+{
+  "name": "sqlite3_native_example",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "libsqlite3_native_example.so": "file:./src/main/cpp/types/libsqlite3_native_example",
+//    "sqlite3_native_library": "file:../sqlite3_native_library"
+    "sqlite3-native-library": "file:../sqlite3_native_library/build/default/outputs/default/sqlite3_native_library.har"
+  }
+}

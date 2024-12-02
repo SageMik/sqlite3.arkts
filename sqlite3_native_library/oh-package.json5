@@ -1,0 +1,12 @@
+{
+  "name": "sqlite3-native-library",
+  "version": "3.46.0+1",
+  "description": "用于 sqlite-ohos.dart/sqlite3_flutter_libs Flutter 插件 的 HarmonyOS 原生库。",
+  "main": "Index.ets",
+  "author": "SageMik",
+  "homepage": "https://github.com/SageMik",
+  "keywords": ["sqlite3", "HarmonyOS", "Flutter", "数据库", "CMake"],
+  "repository": "https://github.com/SageMik/sqlite3_ohos/tree/main/sqlite3_native_library",
+  "license": "Apache-2.0",
+  "dependencies": {},
+}
