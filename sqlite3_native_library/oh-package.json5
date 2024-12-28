@@ -6,7 +6,7 @@
   "author": "SageMik",
   "homepage": "https://github.com/SageMik",
   "keywords": ["sqlite3", "HarmonyOS", "Flutter", "数据库", "CMake"],
-  "repository": "https://github.com/SageMik/sqlite3_ohos/tree/main/sqlite3_native_library",
+  "repository": "https://github.com/SageMik/sqlite3.arkts/tree/main/sqlite3_native_library",
   "license": "Apache-2.0",
   "dependencies": {},
 }
